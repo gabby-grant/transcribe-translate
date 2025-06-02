@@ -1,3 +1,7 @@
+# input files
+input_file = "change name"  # Replace with your input file name
+output_file = "DNA_TO_RNA.fasta"  # Replace with your desired output file name
+
 def transcribe_dna_to_rna(input_file, output_file):
     dna_to_rna = {
         "A": "A",
